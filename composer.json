@@ -1,5 +1,5 @@
 {
-  "name": "gusapi/gusapi",
+  "name": "a-cube-io/gov-pl-gus-api",
   "description": "Gus Api Library for PHP",
   "type" : "library",
   "license": "LGPL-2.1-or-later",
